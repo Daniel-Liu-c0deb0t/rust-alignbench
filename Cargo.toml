@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-libwfa = { git = "https://github.com/chfi/rs-wfa/" }
+#libwfa = { git = "https://github.com/chfi/rs-wfa/" }
 rust-wfa2 = { git = "https://github.com/rchikhi/rust-wfa2/" }
 wfa = { git = "https://github.com/ekimb/wfa" }
 #block-aligner = { version = "^0.2.0", features = ["simd_avx2"] }
